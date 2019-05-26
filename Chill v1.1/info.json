@@ -1,11 +1,11 @@
 {
-  "title": "Chill Miku",
+  "title": "Chill Miku Theme",
   "author": "ProtoPropski",
   "category": "theme",
   "version": "v1.1",
-  "url": "https://github.com/FrameEnder/NXThemes/tree/master/Chill%20v1.1",
-  "license": "n/a",
-  "description": "Chill Set of NXTheme Files, Rounded off, and Modified from Migush's Flow Layout ",
-  "details": "This is mainly just a simple NXTheme I threw together using a few community made layouts, and a wallpaper I enjoy, by no means do I own the rights to anything in this post, especially not the artwork, or it's characters who are owned by Sega, and any licensed Sega partners.\\n\\n\\nI do have to say thank-you to Migush for their help in modifying their Flow Layout, they was more then helpful, and Migush is why this theme even looks as good as it does to begin with, and I'd also like to say thank-you to Such Meme, Many Skill, for their All Apps, and Lockscreen layouts used in this theme as well. Work to better the community is always appreciated, no matter what it is you provide.",
-  "changelog": "Chill Repair\\n\\nUpdate v1.1\\n\\n Fixed Crashing on 8.0.1 (Thanks to akaisora255 on Reddit)\\n\\n Fixed Overlaying Line Footer in Home Menu\\n\\n Removed App Name in Home Menu\\n\\n Changed Lockscreen Layout From \"Clear Lockscreen\" by Such Meme, Many Skill To The \"Simple Lockscreen Layout\" by Akai\\n\\n"
+  "url": "https://github.com/FrameEnder/NXThemes/wiki/NXTheme-Releases",
+  "license": "GPLv2",
+  "description": "CHILL SET OF NXTHEME FILES, ROUNDED OFF, AND MODIFIED FROM MIGUSH'S FLOW LAYOUT",
+  "details": "This is a chill set of NXTheme Files, to fit your Miku, Miku Needs.",
+  "changelog": "(Chill Repair)\\n-Update v1.1\\n\\n* Fixed Crashing on 8.0.1 (Thanks to akaisora255 on Reddit)\\n\\n* Fixed Overlaying Line Footer in Home Menu\\n\\n* Removed App Name in Home Menu\\n\\n* Changed Lockscreen Layout From \"Clear Lockscreen\" by Such Meme, Many Skill To The \"Simple Lockscreen Layout\" by Akai"
 }
